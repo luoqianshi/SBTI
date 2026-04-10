@@ -4,7 +4,7 @@
 
 SBTI 是一个纯前端的娱乐性人格测评网站，通过 30+ 道趣味题目，从五个模型（自我、情感、态度、行动驱力、社交）的十五个维度对你进行"审判"，最终为你匹配 27 种独特人格之一。
 
-原作者：B站@蛆肉儿串儿
+原作者：[B站@Q肉儿串儿](https://space.bilibili.com/417038183)
 
 ## 在线体验
 
@@ -62,10 +62,6 @@ SBTI/
 3. Source 选择 **Deploy from a branch**
 4. Branch 选择 `main`，文件夹选 `/ (root)`
 5. 点击 **Save**，等待部署完成
-
-### 方式二：通过 GitHub Actions 自动部署
-
-项目已包含 GitHub Actions 工作流配置（`.github/workflows/deploy.yml`），推送到 `main` 分支后会自动部署。
 
 ## 十五维度说明
 
